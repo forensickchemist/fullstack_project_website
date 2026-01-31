@@ -1,0 +1,444 @@
+[
+  {
+    "model": "base.Product",
+    "pk": 1,
+    "fields": {
+      "product_name": "Catalyst 9200 Series Switch",
+      "product_price": 19999.99,
+      "brand": "Cisco",
+      "description": "Cisco - Access Switch device for enterprise networks.",
+      "countInStock": 34,
+      "image": "product_images/1.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 2,
+    "fields": {
+      "product_name": "Catalyst 9300 Series Switch",
+      "product_price": 18566.99,
+      "brand": "Cisco",
+      "description": "Cisco - Access Switch device for enterprise networks.",
+      "countInStock": 90,
+      "image": "product_images/2.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 3,
+    "fields": {
+      "product_name": "Catalyst 9500 Series Switch",
+      "product_price": 9999.99,
+      "brand": "Cisco",
+      "description": "Cisco - Core Switch device for enterprise networks.",
+      "countInStock": 65,
+      "image": "product_images/3.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 4,
+    "fields": {
+      "product_name": "Catalyst 9400 Series Switch",
+      "product_price": 20500.08,
+      "brand": "Cisco",
+      "description": "Cisco - Modular Access Switch device for enterprise networks.",
+      "countInStock": 22,
+      "image": "product_images/4.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 5,
+    "fields": {
+      "product_name": "Nexus 9300 Series Switch",
+      "product_price": 15717.91,
+      "brand": "Cisco",
+      "description": "Cisco - Data Center Switch device for enterprise networks.",
+      "countInStock": 10,
+      "image": "product_images/5.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 6,
+    "fields": {
+      "product_name": "ISR 1100 Series Router",
+      "product_price": 21946.02,
+      "brand": "Cisco",
+      "description": "Cisco - Branch Router device for enterprise networks.",
+      "countInStock": 54,
+      "image": "product_images/6.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 7,
+    "fields": {
+      "product_name": "ISR 4000 Series Router",
+      "product_price": 10373.53,
+      "brand": "Cisco",
+      "description": "Cisco - Branch Router device for enterprise networks.",
+      "countInStock": 21,
+      "image": "product_images/7.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 8,
+    "fields": {
+      "product_name": "ASR 1000 Series Router",
+      "product_price": 19024.77,
+      "brand": "Cisco",
+      "description": "Cisco - Aggregation Router device for enterprise networks.",
+      "countInStock": 81,
+      "image": "product_images/8.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 9,
+    "fields": {
+      "product_name": "ASA 5506-X Firewall",
+      "product_price": 7346.85,
+      "brand": "Cisco",
+      "description": "Cisco - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 47,
+      "image": "product_images/9.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 10,
+    "fields": {
+      "product_name": "Firepower 1010 NGFW",
+      "product_price": 24432.75,
+      "brand": "Cisco",
+      "description": "Cisco - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 47,
+      "image": "product_images/10.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 11,
+    "fields": {
+      "product_name": "MX64 Security Appliance",
+      "product_price": 6043.26,
+      "brand": "Cisco Meraki",
+      "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
+      "countInStock": 73,
+      "image": "product_images/11.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 12,
+    "fields": {
+      "product_name": "MX84 Security Appliance",
+      "product_price": 5097.57,
+      "brand": "Cisco Meraki",
+      "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
+      "countInStock": 36,
+      "image": "product_images/12.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 13,
+    "fields": {
+      "product_name": "MX250 Security Appliance",
+      "product_price": 24190.52,
+      "brand": "Cisco Meraki",
+      "description": "Cisco Meraki - SD-WAN & Security device for enterprise networks.",
+      "countInStock": 67,
+      "image": "product_images/13.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 14,
+    "fields": {
+      "product_name": "MR33 Access Point",
+      "product_price": 15743.11,
+      "brand": "Cisco Meraki",
+      "description": "Cisco Meraki - Wireless AP device for enterprise networks.",
+      "countInStock": 39,
+      "image": "product_images/14.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 15,
+    "fields": {
+      "product_name": "MR56 Access Point",
+      "product_price": 18063.25,
+      "brand": "Cisco Meraki",
+      "description": "Cisco Meraki - Wireless AP device for enterprise networks.",
+      "countInStock": 32,
+      "image": "product_images/15.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 16,
+    "fields": {
+      "product_name": "FortiGate 60E Firewall",
+      "product_price": 1560.62,
+      "brand": "Fortinet",
+      "description": "Fortinet - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 55,
+      "image": "product_images/16.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 17,
+    "fields": {
+      "product_name": "FortiGate 100F Firewall",
+      "product_price": 12355.97,
+      "brand": "Fortinet",
+      "description": "Fortinet - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 49,
+      "image": "product_images/17.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 18,
+    "fields": {
+      "product_name": "FortiGate 200F Firewall",
+      "product_price": 17601.53,
+      "brand": "Fortinet",
+      "description": "Fortinet - High-Performance NGFW device for enterprise networks.",
+      "countInStock": 45,
+      "image": "product_images/18.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 19,
+    "fields": {
+      "product_name": "PA-220 Firewall",
+      "product_price": 17521.41,
+      "brand": "Palo Alto Networks",
+      "description": "Palo Alto Networks - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 17,
+      "image": "product_images/19.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 20,
+    "fields": {
+      "product_name": "PA-820 Firewall",
+      "product_price": 12573.32,
+      "brand": "Palo Alto Networks",
+      "description": "Palo Alto Networks - Next-Gen Firewall device for enterprise networks.",
+      "countInStock": 29,
+      "image": "product_images/20.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 21,
+    "fields": {
+      "product_name": "PA-3220 Firewall",
+      "product_price": 14768.29,
+      "brand": "Palo Alto Networks",
+      "description": "Palo Alto Networks - Mid-Range NGFW device for enterprise networks.",
+      "countInStock": 92,
+      "image": "product_images/21.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 22,
+    "fields": {
+      "product_name": "PA-5280 Firewall",
+      "product_price": 9858.02,
+      "brand": "Palo Alto Networks",
+      "description": "Palo Alto Networks - High-Performance NGFW device for enterprise networks.",
+      "countInStock": 53,
+      "image": "product_images/22.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 23,
+    "fields": {
+      "product_name": "1600 Next Generation Firewall",
+      "product_price": 5500.96,
+      "brand": "Check Point",
+      "description": "Check Point - Firewall device for enterprise networks.",
+      "countInStock": 24,
+      "image": "product_images/23.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 24,
+    "fields": {
+      "product_name": "7000 Next Generation Firewall",
+      "product_price": 2324.72,
+      "brand": "Check Point",
+      "description": "Check Point - High-End Firewall device for enterprise networks.",
+      "countInStock": 35,
+      "image": "product_images/24.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 25,
+    "fields": {
+      "product_name": "Aruba CX 6100 Switch Series",
+      "product_price": 10015.53,
+      "brand": "HPE",
+      "description": "HPE - Access Switch device for enterprise networks.",
+      "countInStock": 41,
+      "image": "product_images/25.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 26,
+    "fields": {
+      "product_name": "Aruba CX 8400 Switch Series",
+      "product_price": 7298.2,
+      "brand": "HPE",
+      "description": "HPE - Core Switch device for enterprise networks.",
+      "countInStock": 54,
+      "image": "product_images/26.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 27,
+    "fields": {
+      "product_name": "CloudEngine 16800",
+      "product_price": 15052.35,
+      "brand": "Huawei",
+      "description": "Huawei - Data Center Switch device for enterprise networks.",
+      "countInStock": 81,
+      "image": "product_images/27.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 28,
+    "fields": {
+      "product_name": "Networking N1548P",
+      "product_price": 1974.82,
+      "brand": "Dell EMC",
+      "description": "Dell EMC - Access Switch device for enterprise networks.",
+      "countInStock": 82,
+      "image": "product_images/28.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 29,
+    "fields": {
+      "product_name": "Networking Z9264F-ON",
+      "product_price": 20249.73,
+      "brand": "Dell EMC",
+      "description": "Dell EMC - Data Center Switch device for enterprise networks.",
+      "countInStock": 20,
+      "image": "product_images/29.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 30,
+    "fields": {
+      "product_name": "Summit X460-G2",
+      "product_price": 3125.88,
+      "brand": "Extreme Networks",
+      "description": "Extreme Networks - Access Switch device for enterprise networks.",
+      "countInStock": 11,
+      "image": "product_images/30.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 31,
+    "fields": {
+      "product_name": "Aironet 2800 Series Access Point",
+      "product_price": 7167.44,
+      "brand": "Cisco",
+      "description": "Cisco - Wireless AP device for enterprise networks.",
+      "countInStock": 34,
+      "image": "product_images/31.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 32,
+    "fields": {
+      "product_name": "Aironet 3800 Series Access Point",
+      "product_price": 1604.05,
+      "brand": "Cisco",
+      "description": "Cisco - Wireless AP device for enterprise networks.",
+      "countInStock": 83,
+      "image": "product_images/32.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 33,
+    "fields": {
+      "product_name": "Catalyst 9100AX Series Access Point",
+      "product_price": 12595.3,
+      "brand": "Cisco",
+      "description": "Cisco - Wireless AP device for enterprise networks.",
+      "countInStock": 73,
+      "image": "product_images/33.png",
+      "createdAt": "2025-06-26"
+    }
+  },
+  {
+    "model": "base.Product",
+    "pk": 34,
+    "fields": {
+      "product_name": "Catalyst 9115AX Series Access Point",
+      "product_price": 5464.08,
+      "brand": "Cisco",
+      "description": "Cisco - Wireless AP device for enterprise networks.",
+      "countInStock": 99,
+      "image": "product_images/34.png",
+      "createdAt": "2025-06-26"
+    }
+  }
+]

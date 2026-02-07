@@ -1,18 +1,15 @@
 import React from "react";
-import Hero from "../components/Hero";
 import Product_list from "../components/Product_list";
+import Footer from "../components/Footer";
 import GuideShop from "../components/GuideShop";
-import OurPartner from "../components/OurPartner";
 
-const Home = () => {
+const Products = () => {
   return (
     <div>
-      <Hero />
       <GuideShop />
       <Product_list />
-      <OurPartner />
     </div>
   );
 };
 
-export default Home;
+export default Products;
